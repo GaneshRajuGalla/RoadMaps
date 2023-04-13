@@ -1,6 +1,4 @@
 # SwiftUI-RoadMap
 
 
-## 🗺 Image version 
-Roadmap of essential topics. Roadmap for all topics is [here.](RoadmapProject/Script/Generated/ROADMAP.png)
-![Header image](RoadmapProject/Script/Generated/ESSENTIALROADMAP.png)
+![Header image](https://drive.google.com/drive/u/0/folders/14JiPAO4YOdX7pSoazQJj5OdXC-8vkDX7)
