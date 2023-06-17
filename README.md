@@ -10,8 +10,9 @@ iOS DevRoadMap
 iOS DevRoadMap
 ![iOSDev Roadmap ](https://github.com/GaneshRajuGalla/SwiftUI-RoadMap/assets/61533653/0471ab06-d356-445d-ac18-1ea8f339dfc6)
 
-iOSDev Advance RoadMap
-[Becoming-iOS-Developer-Roadmap-2021.pdf](https://github.com/GaneshRajuGalla/SwiftUI-RoadMap/files/11779895/Becoming-iOS-Developer-Roadmap-2021.pdf)
 
 Swift Roadmap
 ![Swift RoadMap](https://github.com/GaneshRajuGalla/SwiftUI-RoadMap/assets/61533653/f3ab7670-7bc9-4240-bbbd-4a9663908fec)
+
+iOSDev RoadMap
+![iOSDev Roadmap](https://github.com/GaneshRajuGalla/RoadMaps/assets/61533653/fcaadacc-fded-4fe3-8227-f688dbd7d914)
